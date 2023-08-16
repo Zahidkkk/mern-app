@@ -17,6 +17,7 @@
 
 # open new terminal and go to server folder using the command
     cd ./server
+# create .env file 
 # Run below command
     npm install
 # To run backend
